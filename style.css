@@ -12,6 +12,45 @@ body{
     padding-top: 0px;
 }
 form{
-    border: 10px solid red;
+    border: 1px solid rgb(7, 7, 63);
+    background-color: rgba(7, 7, 63, 0.8);
+    border-radius: 10px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 300px;
+    margin-right: 200px;
+    padding: 40px 0px 40px 50px;
    
+}
+#Name{
+    width: 600px;
+    padding: 10px;
+   border-radius: 10px;
+  
+}
+#Email{
+    width: 600px;
+    padding: 10px;
+    border-radius: 10px;
+}
+#number{
+    width: 600px;
+    padding: 10px;
+    border-radius: 10px;
+}
+#dropdown{
+    width: 630px;
+    padding: 10px;
+    border-radius: 10px;
+}
+textarea{
+    width: 630px;
+    border-radius: 5px;
+}
+button{
+    width: 640px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: rgb(0, 128, 79);
+    font-size: large;
 }
