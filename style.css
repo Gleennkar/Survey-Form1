@@ -1,0 +1,17 @@
+body{
+    background-image: url(pple.webp);
+}
+#title{
+    margin-left: 450px;
+
+}
+#description{
+    margin-left: 420px;
+    font-size: large;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+form{
+    border: 10px solid red;
+   
+}
